@@ -1,0 +1,504 @@
+.macbook-pro-14-1-child {
+    position: absolute;
+    top: 891px;
+    left: 0px;
+    background-color: rgba(255, 255, 255, 0.4);
+    width: 1512px;
+    height: 880px;
+}
+.your-yoga {
+    position: absolute;
+    top: 276px;
+    left: 81px;
+}
+.features {
+    position: absolute;
+    top: 925px;
+    left: 609px;
+    font-size: 64px;
+}
+.contributor {
+    position: absolute;
+    top: 1805px;
+    left: calc(50% - 196px);
+    font-size: 64px;
+}
+.bestie {
+    position: absolute;
+    top: 392px;
+    left: 81px;
+}
+.yooga-geng-has {
+    position: absolute;
+    top: 521px;
+    left: 81px;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: Inter;
+    color: #d62964;
+    display: inline-block;
+    width: 492px;
+}
+.navbar-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 0px 0px 35px 35px;
+    background: linear-gradient(90.34deg, #f9827a, #aa4064 80.14%);
+}
+.yooga-geng {
+    position: absolute;
+    top: 34%;
+    left: 5.36%;
+}
+.home {
+    position: relative;
+    color: #fff;
+}
+.classes {
+    position: relative;
+    font-weight: 500;
+}
+
+.classes-contri {
+    position: relative;
+    font-weight: 500;
+}
+
+.home, .classes, .classes-contri {
+    color: #ffd1db;
+    transition: color 0.3s ease-in-out;
+}
+
+.home:hover, .classes:hover, .classes-contri:hover {
+    color: #ffffff;
+}
+
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 30px;
+    background-color: #ffd1db;
+    border: 3px solid #fff;
+    box-sizing: border-box;
+    width: 154px;
+    height: 51px;
+}
+.sign-up {
+    position: absolute;
+    top: 13px;
+    left: 38px;
+    display: inline-block;
+    width: 77px;
+    height: 24px;
+}
+.rectangle-parent {
+    width: 154px;
+    position: relative;
+    height: 51px;
+    color: #aa4064;
+}
+.home-parent {
+    position: absolute;
+    height: 51%;
+    top: 25%;
+    bottom: 24%;
+    left: calc(50% + 62px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 70px;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.8);
+}
+.navbar-item {
+    position: absolute;
+    height: 5%;
+    width: 1.72%;
+    top: 64%;
+    right: 43.19%;
+    bottom: 31%;
+    left: 55.09%;
+    border-radius: 2.5px;
+    z-index: 9999;
+}
+.navbar {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1512px;
+    height: 100px;
+    font-size: 26px;
+    color: #fff;
+    z-index: 9999;
+    font-family: Inter;
+}
+.component-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    background-color: #aa4064;
+}
+.book-a-class {
+    position: absolute;
+    height: 47.06%;
+    width: 44.07%;
+    top: 27.45%;
+    left: 27.95%;
+    display: inline-block;
+}
+.rectangle-group {
+    position: absolute;
+    top: 609px;
+    left: 81px;
+    width: 279.1px;
+    height: 51px;
+    font-size: 20px;
+    color: #9f5263;
+    font-family: Inter;
+}
+.image-2-icon {
+    position: absolute;
+    top: 144px;
+    left: 855px;
+    border-radius: 30px;
+    width: 564px;
+    height: 704px;
+    object-fit: cover;
+}
+.component-2-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 36px;
+    background-color: #fbb4af;
+}
+.image-3-icon {
+    position: absolute;
+    height: 50.48%;
+    width: 88.21%;
+    top: 4.65%;
+    right: 5.89%;
+    bottom: 44.87%;
+    left: 5.89%;
+    border-radius: 30px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.vinyasa-yoga {
+    position: absolute;
+    height: 7.05%;
+    width: 81.71%;
+    top: 58.17%;
+    left: 9.15%;
+    font-size: 36px;
+    display: inline-block;
+}
+.transisi-mulus-antara {
+    position: absolute;
+    width: 86.59%;
+    top: 66.83%;
+    left: 7.52%;
+    font-weight: 500;
+    color: #bd144e;
+    text-align: justify;
+    display: inline-block;
+}
+.component-2-item {
+    position: absolute;
+    height: 8.65%;
+    width: 86.59%;
+    top: 87.82%;
+    right: 5.89%;
+    bottom: 3.53%;
+    left: 7.52%;
+    border-radius: 4px;
+    background-color: #ffd0cd;
+    border: 2px solid #bd144e;
+    box-sizing: border-box;
+}
+.learn-more {
+    position: absolute;
+    top: 90.22%;
+    left: 37.8%;
+    font-weight: 600;
+    color: #844444;
+}
+.component-2 {
+    position: absolute;
+    top: 1040px;
+    left: 187px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+    width: 492px;
+    height: 624px;
+    text-align: center;
+    font-size: 20px;
+    color: #672626;
+}
+.component-21 {
+    position: absolute;
+    top: 1040px;
+    left: 833px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+    width: 492px;
+    height: 624px;
+    text-align: center;
+    font-size: 20px;
+    color: #672626;
+}
+
+.popup-box {
+    display: none;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.5);
+    z-index: 1;
+}
+
+.close-popup {
+    position: absolute;
+    height: 50px;
+    width: 20 px;
+    top: 75%;
+    right: 5.89%;
+    bottom: 3.53%;
+    left: 7.52%;
+    border-radius: 4px;
+    font-weight: 100;
+    color: #844444;
+    background-color: #ffd0cd;
+    border: 4px solid #bd144e;
+    box-sizing: border-box;
+}
+
+.popup-content {
+    position: center;
+    background-color:#fff;
+    margin: 15% auto;
+    padding: 20px;
+    width: 300px;
+    font-size: 16px;
+    box-shadow: 0 5px 15px rgba(255, 255, 255, 0.3);
+    text-align: center;
+    
+}
+
+.yooga-geng1 {
+    position: absolute;
+    top: 34.65%;
+    left: 6.88%;
+    font-size: 36px;
+}
+.dev-with-love {
+    position: absolute;
+    top: 53.95%;
+    left: 7.34%;
+    font-size: 16px;
+    font-weight: 600;
+}
+.classes1 {
+    position: absolute;
+    top: 30.7%;
+    left: 50%;
+}
+.our-team {
+    position: absolute;
+    top: 30.7%;
+    left: 65.81%;
+}
+.contact {
+    position: absolute;
+    top: 30.7%;
+    left: 81.61%;
+}
+.yooga-geng-parent {
+    position: absolute;
+    top: 2272px;
+    left: 0px;
+    background: linear-gradient(91.23deg, #f9827a, #aa4064);
+    width: 1512px;
+    height: 228px;
+    overflow: hidden;
+    font-size: 26px;
+    color: #fff;
+    font-family: Inter;
+}
+.macbook-pro-14-1 {
+    width: 100%;
+    position: relative;
+    background: linear-gradient(234.35deg, #ffdfe6, #e8abb7);
+    height: 2500px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 96px;
+    color: #aa4064;
+    font-family: Montserrat;
+}
+
+.macbook-pro-14-1-item {
+    position: absolute;
+    top: 1897px;
+    left: 123px;
+    border-radius: 16px;
+    width: 406px;
+    height: 340px;
+    object-fit: cover;
+}
+
+.macbook-pro-14-1-inner {
+    position: absolute;
+    top: 1897px;
+    left: 562px;
+    border-radius: 16px;
+    width: 406px;
+    height: 340px;
+    object-fit: cover;
+}
+
+.mask-group-icon {
+    position: absolute;
+    top: 1897px;
+    left: 1031px;
+    width: 406px;
+    height: 340px;
+    object-fit: cover;
+}
+
+/* Tambahkan transisi untuk perubahan gaya tombol */
+.group-child, .component-child, .component-2-item {
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+/* Hover dan transisi untuk tombol "Sign Up" */
+.group-child:hover {
+    background-color: #fff; /* Warna berubah ke putih */
+    transform: scale(1.05); /* Memperbesar tombol sedikit */
+}
+
+.group-child .sign-up:hover {
+    color: #DE5D83; /* Warna teks berubah */
+}
+
+/* Hover dan transisi untuk tombol "Book Session" */
+.component-child:hover {
+    background-color: #fff; /* Warna berubah ke putih */
+    transform: scale(1.05); /* Memperbesar tombol sedikit */
+    color: #AA4064;
+    border: 3px solid #AA4064;
+}
+
+/* Reset gaya saat mouse keluar */
+.group-child, .component-child {
+    background-color: #ffd1db;
+    transform: scale(1);
+}
+
+/* Animasi Smooth Scroll */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Animasi tambahan untuk efek hover di tombol Learn More */
+.learn-more {
+    transition: all 0.3s ease-in-out;
+}
+
+.learn-more:hover {
+    background-color: #AA4064;
+    color: #FFD1DB;
+    transform: translateY(-3px); /* Tombol sedikit naik */
+}
+
+.component-3-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 16px;
+    background-color: #bd144e;
+}
+
+.component-2-item:hover{
+    background-color: #f08cb4;
+    color: #FFD1DB;
+    transform: translateY(-3px);
+}
+
+.component-3-child:hover {
+    background-color: #AA4064;
+    color: #FFD1DB;
+    transform: translateY(-3px);
+}
+.more-yoga-categories {
+    position: absolute;
+    top: 23%;
+    left: 11.42%;
+}
+.component-3 {
+    position: absolute;
+    top: 1694px;
+    left: 646px;
+    width: 219px;
+    height: 51px;
+    font-size: 16px;
+    color: #fff;
+    font-family: Inter;
+}
+
+/* small desktop screen */
+@media (max-width: 1200px) {
+    .macbook-pro-14-1 {
+        font-size: 80px;
+    }
+
+    .features,
+    .contributor {
+        font-size: 48px;
+    }
+
+    .rectangle-group {
+        width: 240px;
+        height: 45px;
+    }
+
+    .book-a-class {
+        width: 60%;
+        left: 20%;
+    }
+
+    .image-2-icon {
+        width: 500px;
+        height: 600px;
+    }
+
+    .component-2,
+    .component-21 {
+        width: 460px;
+        height: 550px;
+    }
+}
